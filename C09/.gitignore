@@ -1,0 +1,6 @@
+.DS_Store
+main.c
+ex01/srcs/*
+*.out
+*.o
+
